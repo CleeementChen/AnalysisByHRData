@@ -14,13 +14,13 @@ we aim to understand which variables most strongly impact employees’ decisions
    - Normalize numerical features
 
 2. **Exploratory Data Analysis (EDA)**
-   - Visualize correlations between features and attrition via heatmap  
+   - Visualise correlations between features and attrition via heatmap  
    - Conduct **ANOVA** to check statistical significance  
 
 3. **Modeling & Visualisation**
    - Build a **Decision Tree** classifier  
    - Evaluate performance using **Confusion Matrix**  
-   - Visualize key features in the decision process  
+   - Visualise key features in the decision process  
 
 ---
 
