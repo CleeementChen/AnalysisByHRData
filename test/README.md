@@ -1,6 +1,15 @@
 # Employee Attrition Analysis & Prediction
 ## Mandarin Vers. ⬇️
 
+### Background
+
+According to the original document:
+This Power BI project focuses on HR analytics and aims to provide insights into various aspects of human resources within an organization. The dataset used for analysis contains several columns related to employee information as stated below.
+
+Reference: https://www.kaggle.com/datasets/saadharoon27/hr-analytics-dataset/data
+
+---
+
 ### 📖 Overview
 This project explores the key factors influencing **employee attrition** using statistical and machine learning approaches.  
 By combining **ANOVA**, **Correlation Heatmaps**, and **Decision Tree models**,  
