@@ -11,7 +11,7 @@ we aim to understand which variables most strongly impact employees’ decisions
 ### 🔍 Workflow
 1. **Data Cleaning & Preprocessing**
    - Handle missing values and categorical encoding (`pd.get_dummies()`)
-   - Normalize numerical features
+   - Normalise numerical features
 
 2. **Exploratory Data Analysis (EDA)**
    - Visualise correlations between features and attrition via heatmap  
