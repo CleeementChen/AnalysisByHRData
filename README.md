@@ -3,7 +3,7 @@
 
 ### 📖 Overview
 This project explores the key factors influencing **employee attrition** using statistical and machine learning approaches.  
-By combining **ANOVA**, **Chi-square tests**, **Correlation Heatmaps**, and **Decision Tree models**,  
+By combining **ANOVA**, **Correlation Heatmaps**, and **Decision Tree models**,  
 we aim to understand which variables most strongly impact employees’ decisions to leave.
 
 ---
@@ -15,9 +15,9 @@ we aim to understand which variables most strongly impact employees’ decisions
 
 2. **Exploratory Data Analysis (EDA)**
    - Visualize correlations between features and attrition via heatmap  
-   - Conduct **ANOVA / Chi-square tests** to check statistical significance  
+   - Conduct **ANOVA** to check statistical significance  
 
-3. **Modeling & Visualization**
+3. **Modeling & Visualisation**
    - Build a **Decision Tree** classifier  
    - Evaluate performance using **Confusion Matrix**  
    - Visualize key features in the decision process  
@@ -44,9 +44,8 @@ Based on ANOVA, correlation, and decision tree analysis:
 ---
 
 ### 👤 Author
-**Po-Kuang (Clément) Chen**  
-- 🎓 Master’s in Big Data & AI (France)  
-- 💼 Expertise: Time Series Forecasting, Machine Learning, Data Analysis  
+**Po-Kuang Chen**  
+- 🎓 Master’s in Big Data & AI for Buzz(France)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/po-kuang-chen-23625821a/) | [Website](https://pokuang-chen.com)
 
 ---
@@ -67,7 +66,7 @@ Based on ANOVA, correlation, and decision tree analysis:
 
 2. **探索性資料分析（EDA）**
    - 以 **相關係數熱圖 (heatmap)** 檢視特徵與 Attrition 的關聯性  
-   - 使用 **ANOVA / 卡方檢定 (Chi-square)** 驗證變數與離職之間的顯著性  
+   - 使用 **ANOVA** 驗證變數與離職之間的顯著性  
 
 3. **模型建構與視覺化**
    - 建立 **決策樹 (Decision Tree)** 模型  
@@ -96,9 +95,8 @@ Based on ANOVA, correlation, and decision tree analysis:
 ---
 
 ### 🧑‍💻 作者
-**Po-Kuang (Clément) Chen**  
-- 🎓 Master in Big Data & AI, France  
-- 💼 專長：Time Series Forecasting / Data Analysis / Machine Learning  
+**Po-Kuang Chen**  
+- 🎓 Master in Big Data & AI for Buzz, France  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/po-kuang-chen-23625821a/) | [Website](https://pokuang-chen.com/)
 
 ---
